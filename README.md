@@ -1,4 +1,4 @@
-Python 2 Docker base image
+Python Docker base image
 =====
 
 The official Python image was way too big, so must build my own.
